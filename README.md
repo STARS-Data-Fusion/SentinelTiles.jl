@@ -2,17 +2,20 @@
 
 Utilities for Geo-Referencing and Searching UTM Sentinel Tiles in Julia
 
-Gregory H. Halverson, NASA Jet Propulsion Laboratory
-gregory.h.halverson@jpl.nasa.gov
-Lead developer and designer
+Gregory H. Halverson<br>
+[gregory.h.halverson@jpl.nasa.gov](mailto:gregory.h.halverson@jpl.nasa.gov)<br>
+Lead developer and designer<br>
+NASA Jet Propulsion Laboratory
 
-Margaret Johnson, NASA Jet Propulsion Laboratory
-maggie.johnson@jpl.nasa.gov
-Concept development and project management
+Margaret Johnson<br>
+[maggie.johnson@jpl.nasa.gov](mailto:maggie.johnson@jpl.nasa.gov)<br>
+Concept development and project management<br>
+NASA Jet Propulsion Laboratory
 
-Kerry Cawse-Nicholson, NASA Jet Propulsion Laboratory
-kerry-anne.cawse-nicholson@jpl.nasa.gov
-Concept development and project management
+Kerry Cawse-Nicholson<br>
+[kerry-anne.cawse-nicholson@jpl.nasa.gov](mailto:kerry-anne.cawse-nicholson@jpl.nasa.gov)<br>
+Concept development and project management<br>
+NASA Jet Propulsion Laboratory
 
 ## Usage
 
