@@ -17,6 +17,11 @@ Kerry Cawse-Nicholson (she/her)<br>
 Concept development and project management<br>
 NASA Jet Propulsion Laboratory
 
+Joshua Fisher (he/him)<br>
+[jbfisher@chapman.edu](mailto:jbfisher@chapman.edu)<br>
+Concept development and project management<br>
+Chapman University
+
 ## Usage
 
 ### sentinel_tile_dims
