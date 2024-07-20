@@ -2,6 +2,8 @@
 
 Utilities for Geo-Referencing and Searching UTM Sentinel Tiles in Julia
 
+The Python equivalent of this package is [sentinel_tiles](https://github.com/JPL-Evapotranspiration-Algorithms/sentinel_tiles).
+
 Gregory H. Halverson (they/them)<br>
 [gregory.h.halverson@jpl.nasa.gov](mailto:gregory.h.halverson@jpl.nasa.gov)<br>
 Lead developer and designer<br>
